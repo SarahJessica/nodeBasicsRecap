@@ -4,6 +4,7 @@
   "description": "re-going over basics of node &c.",
   "main": "my-module.js",
   "dependencies": {
+    "express": "^4.13.1",
     "gulp": "^3.9.0"
   },
   "devDependencies": {},
