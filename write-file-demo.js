@@ -5,7 +5,7 @@ var sallyString = '{ "name" : "Sally"}';
 var kelly = {
 	name : 'kelly',
 	age : 24,
-	location : 'Wales'
+	location : '. '
 }
 
 fs.writeFile('sally.json', sallyString);
